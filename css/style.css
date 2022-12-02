@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+body{
+	font-size: 14px;
+	font-family: "Open Sans";
+	color: #333;
+}
+
+header{
+	background-color: #000;
+	position: relative;
+	width: 100%;
+	padding: 10px 0;
+}
+
+#hero{ 
+	background-image: url("../img/bg-hero.jpg");
+	color: #fff;
+	margin-bottom: 100px;
+	padding-bottom: 500px;
+    padding-top: 50px;
+}
+
+#hero h1{
+	font-size: 100px;
+	font-weight: 700;
+	
+}
+
+#hero h4{
+	font-family: "Eb Garamond";
+	font-size: 40px;
+}
+
+#hero h3{
+	font-size: 45px;
+	font-weight: 700;
+	
+}
+
+#hero h6{
+	font-family: "Eb Garamond";
+	font-size: 25px;
+	padding-bottom: 40px;
+}
+
+.btn-consultation{
+	font-family: "Open Sans";
+	background-color: #DEBE0E;
+	color: #000000;
+	text-transform: uppercase;
+	padding: 10px 10px;
+	font-weight: 400;
+	
+}
+
+#features h2{
+	text-align: center;
+	font-weight: 700;
+	font-size: 50px;
+	padding-bottom: 20px;
+}
+
+.p-feat{
+	text-align: center;
+	font-family: "Eb Garamond";
+	font-size: 20px;
+	color: #5F5E5E;
+	padding-bottom: 60px;
+}
+
+#features p{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 15px;
+	
+}
+
+h5{
+	font-size: 20px;
+	font-weight: 700;
+}
+
+.icons-feautures{
+	
+	font-size: 60px;
+	color: #58CF46;
+}
+
+#features{
+	margin-bottom: 60px;
+}
+
+#footer{
+	margin-top: 60px;
+	padding-top: 60px;
+	background-color: #191919;
+	color: #AAA;
+}
+
+
+
+
